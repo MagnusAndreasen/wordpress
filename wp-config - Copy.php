@@ -26,7 +26,7 @@ define('DB_NAME', 'magnusmultimedia_dk');
 define('DB_USER', 'magnusmultimedia_dk');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'M08a06@s9');
+define('DB_PASSWORD', 'gRzFKeGsQgrr6dVZjFRbD53p');
 
 /** MySQL hostname */
 define('DB_HOST', 'magnusmultimedia.dk.mysql');
